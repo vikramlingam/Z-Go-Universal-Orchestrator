@@ -6,8 +6,6 @@
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://gradio.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![Z-Go Demo](https://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Z-Go+Universal+Orchestrator)
-
 ---
 
 ## 📖 About This Project
@@ -141,7 +139,7 @@ This pattern provides **instant UI feedback** while deferring heavy computation.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/z-go-orchestrator.git
+git clone https://github.com/vikramlingam/z-go-orchestrator.git
 cd z-go-orchestrator
 
 # Create virtual environment (recommended)
@@ -217,7 +215,7 @@ The app will:
 
 | Japanese Garden | Cyberpunk Warrior |
 |:---------------:|:-----------------:|
-| ![Japanese Garden](samples/japanese_garden.png) | ![Cyberpunk Warrior](samples/cyberpunk_warrior.png) |
+| ![Japanese Garden](japanese.png) | ![Cyberpunk Warrior](neon.png) |
 | *"A serene Japanese garden with cherry blossoms, golden hour lighting, photorealistic"* | *"Portrait of a cyberpunk warrior, neon lights, detailed, 8k quality"* |
 
 ---
