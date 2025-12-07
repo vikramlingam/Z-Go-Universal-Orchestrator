@@ -139,8 +139,8 @@ This pattern provides **instant UI feedback** while deferring heavy computation.
 
 ```bash
 # Clone the repository
-git clone https://github.com/vikramlingam/z-go-orchestrator.git
-cd z-go-orchestrator
+git clone [https://github.com/vikramlingam/z-go-orchestrator.git](https://github.com/vikramlingam/Z-Go-Universal-Orchestrator)
+cd Z-Go-Universal-Orchestrator
 
 # Create virtual environment (recommended)
 python -m venv venv
