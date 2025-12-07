@@ -1,4 +1,4 @@
-# 🧠 Z-Go Universal Orchestrator
+# Z-Go Universal Orchestrator
 
 > **A portable, hardware-aware text-to-image generator powered by Z-Image-Turbo**
 
