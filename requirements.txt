@@ -1,0 +1,29 @@
+# Z-Go Universal Orchestrator - Requirements
+# ==========================================
+
+# Core UI
+gradio>=4.0.0
+
+# Model Hub
+huggingface_hub
+
+# PyTorch (auto-detects CUDA/MPS/CPU)
+torch
+
+# Diffusers from git (required for Z-Image support)
+# Install with: pip install git+https://github.com/huggingface/diffusers
+diffusers
+
+# Diffusers dependencies
+accelerate
+transformers
+safetensors
+sentencepiece
+
+# GGUF quantization support
+peft>=0.17.0
+gguf>=0.10.0
+
+# Image processing
+Pillow
+tqdm
