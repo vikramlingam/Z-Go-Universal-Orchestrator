@@ -25,7 +25,7 @@ Z-Go is a **local, privacy-first** text-to-image generation application that run
 
 ## 📓 Educational Notebook
 
-New to diffusion models? Start with **`z_go_explained.ipynb`** - a beginner-friendly Jupyter notebook that teaches you:
+New to diffusion models? Start with **`z_go_explained.ipynb`** - a beginner-friendly Jupyter notebook in which i tried to explain:
 
 - How diffusion models generate images from noise
 - What GGUF quantization is and why it matters
