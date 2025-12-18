@@ -208,7 +208,7 @@ The app will:
 
 ❌ Avoid:
 "garden" (too vague)
-"make it good" (not descriptive)
+"make it good" (not descriptive) 
 ```
 
 ### Sample Outputs
@@ -236,7 +236,7 @@ z-go-orchestrator/
 
 ## 🔧 Technical Details
 
-### Hardware Detection
+### Hardware Detection 
 
 The app automatically detects your hardware:
 
